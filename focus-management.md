@@ -1,3 +1,5 @@
+# Focus Management
+
 ## 1.What is Deep Work?
 Deep Work is when you focus really hard on a challenging task without getting distracted. It’s about doing your best work by concentrating fully, without interruptions like social media or emails.
 
