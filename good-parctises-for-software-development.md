@@ -1,4 +1,4 @@
-# Good Practices of Software Development
+# Good Practises of Software Development
 
 ## Which points were new to you?
 
